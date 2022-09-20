@@ -1,5 +1,5 @@
 
-<a href="/resources" target="_blank">Diapositivas</a>
+[Diapositivas](resources/introduccion-al-desarrollo-web.pdf)
 
 ***
 
