@@ -1,4 +1,4 @@
-[Diapositivas](https://github.com/The-Valley-School/preworl-s1-introduccion-y-setup/blob/bd23b9f71c35f4600022a9c6116c3eeae9dac3da/resources/setup-mac.pdf)
+[Diapositivas](/resources/setup-mac.pdf)
 ***
 
 Antes de ponernos a programar, vamos a hacer una pequeña introducción para entender bien cómo funciona una web y a su vez, ir viendo unos conceptos generales que nos van servir para ir cogiendo el vocabulario y jerga de este mundillo.
