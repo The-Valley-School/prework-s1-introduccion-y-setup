@@ -26,6 +26,10 @@ acceder a una web, interpretando la información de distintos tipos de
 archivos para que puedan ser vistios.
 ```
 
+```php
+include("cnx.php");
+```
+
   
 
 Seguramente ya estés trabajando con Chrome, y es que más del 65% de los usuarios lo utilizan a la hora de navegar por sus sitios web preferidos, si no es así, sigue estos pasos para instalarlo.
