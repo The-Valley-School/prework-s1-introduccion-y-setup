@@ -1,3 +1,8 @@
+
+[Presentación](resources/introduccion-al-desarrollo-web.pdf)
+
+***
+
 Antes de comenzar a desarrollar, es necesario preparar nuestro entorno de trabajo con las herramientas que vamos a necesitar. Para poder realizar el prework con éxito va a ser necesario:
 
 - Instalar Chrome
