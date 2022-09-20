@@ -1,5 +1,5 @@
 
-[Diapositivas](resources/introduccion-al-desarrollo-web.pdf)
+[Diapositivas](resources)
 
 ***
 
