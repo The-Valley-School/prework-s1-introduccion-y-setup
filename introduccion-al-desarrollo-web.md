@@ -1,4 +1,4 @@
-[Diapositivas](/resources/setup-mac.pdf)
+[Diapositivas](/resources)
 ***
 
 Antes de ponernos a programar, vamos a hacer una pequeña introducción para entender bien cómo funciona una web y a su vez, ir viendo unos conceptos generales que nos van servir para ir cogiendo el vocabulario y jerga de este mundillo.
