@@ -1,5 +1,5 @@
 
-[Presentación](resources/introduccion-al-desarrollo-web.pdf)
+[Diapositivas]([resources/introduccion-al-desarrollo-web.pdf](https://github.com/The-Valley-School/preworl-s1-introduccion-y-setup/blob/bd23b9f71c35f4600022a9c6116c3eeae9dac3da/resources/setup-mac.pdf))
 
 ***
 
