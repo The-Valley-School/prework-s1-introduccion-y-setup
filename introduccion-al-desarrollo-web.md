@@ -7,7 +7,7 @@ Antes de ponernos a programar, vamos a hacer una pequeña introducción para ent
 
 No os asustéis viéndome usar una presentación, a lo largo del curso vamos a tener las mínimas posibles, siempre estaremos trabajando en nuestro entorno de desarrollo, pero creo que es importante, y sobre todo en esta lección, dejar claros los conceptos.
 
-# CLIENTE / SERVIDOR
+## CLIENTE / SERVIDOR
 
 Quiero explicaros primero como funciona una web a muy alto nivel. ¿Qué es eso de cliente / servidor? 
 
