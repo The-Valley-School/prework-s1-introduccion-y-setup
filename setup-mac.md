@@ -1,7 +1,7 @@
 
-[Diapositivas]([resources/introduccion-al-desarrollo-web.pdf](https://github.com/The-Valley-School/preworl-s1-introduccion-y-setup/blob/bd23b9f71c35f4600022a9c6116c3eeae9dac3da/resources/setup-mac.pdf))
+>[DIAPOSITIVAS](S1-recursos/setup-macos.pdf)
 
-***
+---
 
 Antes de comenzar a desarrollar, es necesario preparar nuestro entorno de trabajo con las herramientas que vamos a necesitar. Para poder realizar el prework con éxito va a ser necesario:
 
@@ -20,11 +20,11 @@ Antes de empezar a instalar nuestro navegador tenemos que tener bien claro que e
 
  
 
-```
-Un navegador web es un sw, aplicación o programa que nos va a permitir 
+
+> Un navegador web es un sw, aplicación o programa que nos va a permitir 
 acceder a una web, interpretando la información de distintos tipos de 
 archivos para que puedan ser vistios.
-```
+
   
 
 Seguramente ya estés trabajando con Chrome, y es que más del 65% de los usuarios lo utilizan a la hora de navegar por sus sitios web preferidos, si no es así, sigue estos pasos para instalarlo.
@@ -33,9 +33,9 @@ Lo primero que haremos será acceder al siguiente enlace a través de nuestro na
 
  
 
-```
+
 [https://www.google.com/intl/es_es/chrome/](https://www.google.com/intl/es_es/chrome/)
-```
+
 
  
 
@@ -53,11 +53,10 @@ Vamos ahora a instalar Visual Studio Code, que va a ser nuestro entorno de traba
 
  
 
-```
-Un IDE es un entorno de trabajo donde vamos a poder escribir 
+
+>Un IDE es un entorno de trabajo donde vamos a poder escribir 
 y desarrollar nuestro código. Cuenta con una interfaz gráfica que nos 
 facilitará la tarea
-```
 
    
 
@@ -69,9 +68,8 @@ Lo primero es abrir nuestro navegador Chrome que acabamos de instalar e ir al en
 
  
 
-```
+
 https://code.visualstudio.com/
-```
 
    
 
@@ -87,9 +85,9 @@ Vamos ahora a instalar una serie de extensiones que nos van a hacer la vida más
 
  
 
-```
+
 https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es
-```
+
 
    
 
@@ -97,9 +95,9 @@ https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pa
 
  
 
-```
+
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-```
+
 
    
 
