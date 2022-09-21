@@ -14,11 +14,11 @@ Antes de empezar a instalar nuestro navegador tenemos que tener bien claro que e
 
  
 
-```
-Un navegador web es un sw, aplicación o programa que nos va a permitir 
+
+> Un navegador web es un sw, aplicación o programa que nos va a permitir 
 acceder a una web, interpretando la información de distintos tipos de 
 archivos para que puedan ser vistios.
-```
+
 
   
 
@@ -28,9 +28,9 @@ Lo primero que haremos será acceder al siguiente enlace a través de nuestro na
 
  
 
-```
+
 [https://www.google.com/intl/es_es/chrome/](https://www.google.com/intl/es_es/chrome/)
-```
+
 
  
 
@@ -49,11 +49,11 @@ Vamos ahora a instalar Visual Studio Code, que va a ser nuestro entorno de traba
 
  
 
-```
-Un IDE es un entorno de trabajo donde vamos a poder escribir 
+
+> Un IDE es un entorno de trabajo donde vamos a poder escribir 
 y desarrollar nuestro código. Cuenta con una interfaz gráfica que nos 
 facilitará la tarea
-```
+
 
    
 
@@ -65,9 +65,9 @@ Lo primero es abrir nuestro navegador Chrome que acabamos de instalar e ir al en
 
  
 
-```
+
 https://code.visualstudio.com/
-```
+
 
    
 
@@ -81,9 +81,9 @@ Vamos ahora a instalar una serie de extensiones que nos van a hacer la vida más
 
  
 
-```
+
 https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es
-```
+
 
    
 
@@ -91,9 +91,9 @@ https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pa
 
  
 
-```
+
 [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-```
+
 
    
 
@@ -112,9 +112,9 @@ La instalación en mac es muy sencilla.
 
 Accedemos a la página de descarga de git
 
-```
+
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
-```
+
 
  
 
