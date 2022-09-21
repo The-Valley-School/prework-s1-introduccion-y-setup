@@ -10,6 +10,7 @@ No os asustéis viéndome usar una presentación, a lo largo del curso vamos a t
 # CLIENTE / SERVIDOR
 ## CLIENTE / SERVIDOR
 ### CLIENTE / SERVIDOR
+***
 
 Quiero explicaros primero como funciona una web a muy alto nivel. ¿Qué es eso de cliente / servidor? 
 
