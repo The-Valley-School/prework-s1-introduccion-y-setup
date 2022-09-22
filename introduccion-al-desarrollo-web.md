@@ -28,7 +28,7 @@ Imaginaos que queremos entrar en en una página web, por ejemplo, thevalley.es.
     - Archivos CSS son archivos de estilo que utilizamos para dar formato a las webs
     - Archivos JS que son utilizados para todo lo que tiene que ver con la lógica e interacción en la web.
 
-**FRONT-END / BACK-END / FULL-STACK**
+## FRONT-END / BACK-END / FULL-STACK
 
 Una vez entendido como funciona a alto nivel una web y con este diagrama que tenemos, podemos resolver las preguntas de , ¿qué significa Front-end? ¿Back-End? y ¿Full-Stack?. Seguro que a lo largo de la búsqueda de este Máster, te has topado con estas palabras infinidad de veces. Vamos a resumir su significado y nos va ayudar a dar paso a entender que es una web:
 
