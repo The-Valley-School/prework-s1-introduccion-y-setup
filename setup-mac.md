@@ -12,7 +12,7 @@ Antes de comenzar a desarrollar, es necesario preparar nuestro entorno de trabaj
 
  
 
-**INSTALACIÓN CHROME**
+## INSTALACIÓN CHROME
 
 La primera instalación dentro de este Setup para Mac va a ser el navegador web, en este caso chrome. Os recomendamos usar chrome a lo largo del curso ya que es con el que nosotros trabajamos en los videos.
 
@@ -47,7 +47,7 @@ Pulsamos dos veces sobre el archivo y seguimos los pasos de instalación, una ve
 
 Más allá de ser el navegador más usado a nivel mundial, chrome nos va a permitir instalar una serie de extensiones que permitirán agregar funcionalidades muy interesantes que iremos viendo e instalando a lo largo del curso.
 
-**INSTALACIÓN VISUAL STUDIO CODE**
+## INSTALACIÓN VISUAL STUDIO CODE
 
 Vamos ahora a instalar Visual Studio Code, que va a ser nuestro entorno de trabajo.
 
@@ -103,7 +103,7 @@ https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 Hay un montón de extensiones más que iremos utilizando a lo largo del Máster, conforme las necesitemos las iremos instalando.
 
-**INSTALACIÓN DE GIT**
+## INSTALACIÓN DE GIT
 
 El siguiente paso del setup es la instalación de GIT. GIT va a ser el controlador de versiones de nuestros proyectos.
 
@@ -150,7 +150,7 @@ git config --global user.email "ecuadradoruiz@gmail.com"
 
 No te asustes si te está sonando a chino todo, ya verás como cuando vaya avanzando el curso empezará todo a tener sentido.
 
-**CUENTA GITHUB**
+## CUENTA GITHUB
 
 Para finalizar el setup ya solo nos quedaría abrir una cuenta en GitHub y crear nuestra clave SSH.
 
