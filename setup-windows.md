@@ -28,8 +28,7 @@ Lo primero que haremos será acceder al siguiente enlace a través de nuestro na
 
  
 
-
-[https://www.google.com/intl/es_es/chrome/](https://www.google.com/intl/es_es/chrome/)
+https://www.google.com/intl/es_es/chrome/
 
 
  
@@ -92,7 +91,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pa
  
 
 
-[https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 
    
@@ -113,7 +112,7 @@ La instalación en mac es muy sencilla.
 Accedemos a la página de descarga de git
 
 
-[https://git-scm.com/downloads](https://git-scm.com/downloads)
+https://git-scm.com/downloads
 
 
  
