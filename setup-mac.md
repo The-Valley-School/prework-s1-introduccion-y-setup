@@ -34,7 +34,7 @@ Lo primero que haremos será acceder al siguiente enlace a través de nuestro na
  
 
 
-[https://www.google.com/intl/es_es/chrome/](https://www.google.com/intl/es_es/chrome/)
+https://www.google.com/intl/es_es/chrome/
 
 
  
