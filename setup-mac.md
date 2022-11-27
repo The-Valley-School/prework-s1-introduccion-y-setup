@@ -21,9 +21,9 @@ Antes de empezar a instalar nuestro navegador tenemos que tener bien claro que e
  
 
 
-> Un navegador web es un sw, aplicación o programa que nos va a permitir 
+> Un navegador web es un software, aplicación o programa que nos va a permitir 
 acceder a una web, interpretando la información de distintos tipos de 
-archivos para que puedan ser vistios.
+archivos para que puedan ser vistos.
 
   
 
