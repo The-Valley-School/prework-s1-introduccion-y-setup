@@ -24,15 +24,15 @@ Imaginaos que queremos entrar en en una página web, por ejemplo, thevalley.es.
 - Una vez agrupada, se envía al **cliente.** A través de un protocolo HTTP/HTTPS, un protocolo para la comunicación de esa información en páginas web.
 
 - Ya solo quedaría que el navegador de la parte cliente, procesase esa información para poder visualizarla. Por lo general, recibiremos archivos HTML, CSS y JAVASCRIPT.
-    - Archivos HTML son los archivos de estructura de la web
-    - Archivos CSS son archivos de estilo que utilizamos para dar formato a las webs
+    - Archivos HTML son los archivos de estructura de la web.
+    - Archivos CSS son archivos de estilo que utilizamos para dar formato a las webs.
     - Archivos JS que son utilizados para todo lo que tiene que ver con la lógica e interacción en la web.
 
 ## FRONT-END / BACK-END / FULL-STACK
 
-Una vez entendido como funciona a alto nivel una web y con este diagrama que tenemos, podemos resolver las preguntas de , ¿qué significa Front-end? ¿Back-End? y ¿Full-Stack?. Seguro que a lo largo de la búsqueda de este Máster, te has topado con estas palabras infinidad de veces. Vamos a resumir su significado y nos va ayudar a dar paso a entender que es una web:
+Una vez entendido como funciona a alto nivel una web y con este diagrama que tenemos, podemos resolver las preguntas de, ¿qué significa Front-end? ¿Back-End? y ¿Full-Stack?. Seguro que a lo largo de la búsqueda de este Máster, te has topado con estas palabras infinidad de veces. Vamos a resumir su significado y nos va ayudar a dar paso a entender que es una web:
 
-- Un **desarrollador Front-End** es el encargado, mediante el desarrollo de código interpretado por el navegador ( HTML, CSS, JS), de crear la parte visual de una web, la parte **cliente**. No confundir con un diseñador, estamos hablando de desarrollar el código de ese diseño. Las bases de cada uno de estos lenguajes de programación las veremos en el prework. Front-End por lo tanto, es el encargado de realizar esa petición y procesar la respuesta.
+- Un **desarrollador Front-End** es el encargado, mediante el desarrollo de código interpretado por el navegador (HTML, CSS, JS), de crear la parte visual de una web, la parte **cliente**. No confundir con un diseñador, estamos hablando de desarrollar el código de ese diseño. Las bases de cada uno de estos lenguajes de programación las veremos en el prework. Front-End por lo tanto, es el encargado de realizar esa petición y procesar la respuesta.
 
 - Un **desarrollador Back-End** es el encargado de procesar esa respuesta y devolver la información que necesita la parte cliente.
 
